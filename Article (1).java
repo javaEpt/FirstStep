@@ -63,4 +63,4 @@ public void calNote(){
 }
     else note=N[0];
 }
-}
+}   
